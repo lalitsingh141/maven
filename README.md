@@ -52,7 +52,7 @@ mailing list to ask questions or discuss new ideas/features/bugs etc.
 
 Take a look into the [contribution guidelines](CONTRIBUTING.md).
 
-License
+license
 -------
 This code is under the [Apache License, Version 2.0, January 2004][license].
 
